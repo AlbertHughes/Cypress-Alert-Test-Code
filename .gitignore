@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+package.json
+cypress.config.js
+cypress/support/commands.js
+cypress/support/e2e.js
+cypress/fixtures/example.json
+cypress/videos/spec10.cy.js.mp4
+
